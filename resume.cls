@@ -98,7 +98,7 @@
 
 \begin{itemize}
     \item Built a generic and scalable data tracking system using RabbitMQ, Yii2 RESTful API, Multithreaded Java workers and PostgreSQL.
-\item Implemented the complete Search functionality using SOLR with Solarium. Used clustering to
+\item Implemented the complete Search functionality using SOLR with Solarium.  Used clustering to
 predict similar queries and tuned SOLR for relevancy.
 \item Worked on the development of a custom MVC framework for Web and Mobile APIs..
 
